@@ -9,6 +9,6 @@ public class BirinciGun {
 		System.out.println("10:35 - ikinci gun");
 		System.out.println("10:35 - ikinci gun");
 		System.out.println("11:03 - github.");
-		System.out.println("11:03 - github.");
+		System.out.println("11:23 - github.");
 	}
 }
