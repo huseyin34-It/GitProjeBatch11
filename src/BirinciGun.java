@@ -1,4 +1,3 @@
-
 public class BirinciGun {
 
 	public static void main(String[] args) {
@@ -13,6 +12,7 @@ public class BirinciGun {
 		System.out.println("22:57 master add .");
 		System.out.println("ben burada commit beklemiyorum.");
 		System.out.println("10:26 future brach");
-		System.out.println("22:55 feature add");
+		System.out.println("10:58 feature branch");
+		
 	}
 }
