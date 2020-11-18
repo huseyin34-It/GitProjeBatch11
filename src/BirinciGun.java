@@ -10,5 +10,7 @@ public class BirinciGun {
 		System.out.println("10:35 - ikinci gun");
 		System.out.println("11:03 - github.");
 		System.out.println("11:23 - github.");
+		System.out.println("ben burada commit beklemiyorum.");
+		System.out.println("10:26 future brach");
 	}
 }
