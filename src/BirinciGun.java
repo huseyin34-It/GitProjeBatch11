@@ -14,6 +14,8 @@ public class BirinciGun {
 		System.out.println("10:26 future brach");
 		System.out.println("10:58 feature branch");
 		System.out.println("11:09 master baranch");
+		System.out.println("23:38 de masterde degisiklik yaptik");
+		
 		
 	}
 }
